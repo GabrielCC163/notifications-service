@@ -25,6 +25,9 @@ ex: use-cases/send-notification.ts
 ## Repository Pattern
 Recebe as chamadas do caso de uso e persiste no banco.
 
+## Check for TS erros
+npx tsc --noEmit
+
 ## Patterns
-### Factory
 ### Mapper
+### Factory
